@@ -1,0 +1,17 @@
+{
+  "name": "perform360",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Perform360 - Next.js website and API (route handlers) with MongoDB",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000"
+  },
+  "dependencies": {
+    "mongodb": "^7.9.0",
+    "next": "16.4.6",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  }
+}
